@@ -3,12 +3,14 @@
 > MAXIMISE NS BRAINROT
 
 ## 👨‍💻 About Me
-- 🎓 **Information Engineering Major** at Nanyang Technological University
+- 💬 22 Years Old, currently studying
+- 🎓 BEng in **Information Engineering Major** at Nanyang Technological University
 - 🧮 Math enthusiast | CTF problem-solver | Idle game enjoyer | Ex-Pro Gamer
 
 ## 🛠️ Tech Stack 
 - **Languages:** Python, C#, JS
 - **Frameworks:** Flask, ASP.NET, Vue
+- **Technologies:** Git, DaVinci Resolve, MS Office
 - **Learning:** Deno, Rust, JAM, React
 
 ## 🚀 Featured Projects
@@ -17,10 +19,11 @@
 - [**AbyssIdle**](https://github.com/n4ver/AbyssIdle): My (IN PROGRESS) love letter to idle games.
 
 ## 🌐 Socials
-- [Instagram: @n1ckchng](https://instagram.com/n1ckchng)
-- [LinkedIn: Nicholas Chng](https://www.linkedin.com/in/nicholas-chng-2a773a1a9/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/nicholas-chng-2a773a1a9/)
+[![](https://img.shields.io/badge/Instagram-E4405F)](https://instagram.com/n1ckchng)
 
-> Feel free to reach out for a chat about just about anything
+
+
 
 ![n4ver's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4ver&show_icons=true&theme=radical)
 
