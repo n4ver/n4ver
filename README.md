@@ -1,5 +1,5 @@
 # Hey there, I’m Nick Chng 👋
-<img src="https://raw.githubusercontent.com/n4ver/n4ver/master/assets/ep10-cingray.gif" height="40" />
+<img align="center" src="https://raw.githubusercontent.com/n4ver/n4ver/master/assets/ep10-cingray.gif" height="256" />
 
 ## 👨‍💻 About Me
 - 💬 22 Years Old, currently studying
