@@ -2,8 +2,8 @@
 <img align="center" src="https://raw.githubusercontent.com/n4ver/n4ver/master/assets/ep10-cingray.gif" height="256" />
 
 ## 👨‍💻 About Me
-- 💬 22 Years Old, currently studying
-- 🎓 BEng in **Information Engineering & Media** at Nanyang Technological University
+- 💬 22 Years Old, currently pursuing a BEng in **Information Engineering & Media** @ NTU.
+- 🎓 **Cybersecurity & Digital Forensics** Diploma Holder & Graduate from Ngee Ann Polytechnic
 - 🧮 Math enthusiast | CTF problem-solver | Idle game enjoyer | Ex-Pro Gamer
 
 ## 🛠️ Tech Stack 
