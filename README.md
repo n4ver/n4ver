@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 - 💬 22 Years Old, currently studying
-- 🎓 BEng in **Information Engineering Major** at Nanyang Technological University
+- 🎓 BEng in **Information Engineering & Media** at Nanyang Technological University
 - 🧮 Math enthusiast | CTF problem-solver | Idle game enjoyer | Ex-Pro Gamer
 
 ## 🛠️ Tech Stack 
