@@ -1,4 +1,4 @@
-# Hey there, I’m Nick Chng 👋
+# Yahallo, I’m Nick Chng 👋
 <img align="center" src="https://raw.githubusercontent.com/n4ver/n4ver/master/assets/ep10-cingray.gif" height="256" />
 
 ## 👨‍💻 About Me
@@ -9,11 +9,11 @@
 ## 🛠️ Tech Stack 
 - **Languages:** Python, C#, JS
 - **Frameworks:** Flask, ASP.NET, Vue
-- **Technologies:** Git, DaVinci Resolve, MS Office
-- **Learning:** Deno, Rust, JAM, React
+- **Technologies:** Git, DaVinci Resolve, MS Office, Tensorflow
+- **Learning:** Deno, Rust, React
 
 ## 🚀 Featured Projects
-- [**Live Broadcast Dashboard**](https://github.com/n4ver/N4TV): Developed solution for displaying player logs for live e-sports broadcasts
+- [**Live Broadcast Dashboard**](https://github.com/n4ver/N4TV): Developed solution for displaying player logs & statistics for live e-sports broadcasts
 
 ## 🌐 Socials
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/nicholas-chng-2a773a1a9/)
