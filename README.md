@@ -4,13 +4,13 @@
 ## 👨‍💻 About Me
 - 💬 22 Years Old, currently pursuing a BEng in **Information Engineering & Media** @ NTU.
 - 🎓 **Cybersecurity & Digital Forensics** Diploma Holder & Graduate from Ngee Ann Polytechnic
-- 🧮 Math enthusiast | CTF problem-solver | Idle game enjoyer | Ex-Pro Gamer
+- 🧮 Casual maths enthusiast | CTF Tryhard | Idle game fanatic | Ex-Pro Gamer
 
 ## 🛠️ Tech Stack 
 - **Languages:** Python, C#, JS
 - **Frameworks:** Flask, ASP.NET, Vue
 - **Technologies:** Git, DaVinci Resolve, MS Office, Tensorflow
-- **Learning:** Deno, Rust, React
+- **Learning:** Rust, React
 
 ## 🚀 Featured Projects
 - [**Live Broadcast Dashboard**](https://github.com/n4ver/N4TV): Developed solution for displaying player logs & statistics for live e-sports broadcasts
