@@ -4,12 +4,11 @@
 ## 👨‍💻 About Me
 - 💬 22 Years Old, currently pursuing a BEng in **Information Engineering & Media** @ NTU.
 - 🎓 **Cybersecurity & Digital Forensics** Diploma Holder & Graduate from Ngee Ann Polytechnic
-- 🧮 Casual maths enthusiast | CTF Tryhard | Idle game fanatic | Ex-Pro Gamer
+- 🧮 Casual maths enthusiast & CTF tryhard
 
 ## 🛠️ Tech Stack 
-- **Languages:** Python, C#, JS
+- **Languages:** Python, C#, JS, Java
 - **Frameworks:** Flask, ASP.NET, Vue
-- **Technologies:** Git, DaVinci Resolve, MS Office, Tensorflow
 - **Learning:** Rust, React
 
 ## 🚀 Featured Projects
