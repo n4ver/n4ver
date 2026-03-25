@@ -13,6 +13,7 @@
 
 ## 🚀 Featured Projects
 - [**Live Broadcast Dashboard**](https://github.com/n4ver/N4TV): Developed solution for displaying player logs & statistics for live e-sports broadcasts
+- [**Portfolio Site**](https://n4ver.github.io/portfolio/): My portfolio site
 
 ## 🌐 Socials
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/nicholas-chng-2a773a1a9/)
