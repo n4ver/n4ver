@@ -13,7 +13,7 @@
 - 🧮 Casual maths enthusiast & CTF tryhard
 - 🔭 I'm currently working on **my Idle Game!**
 
-- 👨‍💻 All of my projects are available **[here](https://n4ver.github.io/portfolio/)**!
+- 👨‍💻 All of my projects are available **[here](http://www.n4ver.xyz/)**!
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/n4ver" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="n4ver" height="30" width="30" /></a>
