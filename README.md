@@ -8,8 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/n4verz" target="blank"><img src="https://img.shields.io/twitter/follow/n4verz?logo=twitter&style=for-the-badge" alt="n4verz" /></a> </p>
 
-- 💬 22 Years Old, currently pursuing a BEng in **Information Engineering & Media** @ NTU.
-- 🎓 **Cybersecurity & Digital Forensics** Diploma Holder & Graduate from Ngee Ann Polytechnic
+- 💬 23 Years Old, currently pursuing a BEng in **Information Engineering & Media** @ NTU.
+- 🎓 **Cybersecurity & Digital Forensics** Graduate from Ngee Ann Polytechnic
 - 🧮 Casual maths enthusiast & CTF tryhard
 - 🔭 I'm currently working on **my Idle Game!**
 
