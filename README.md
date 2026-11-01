@@ -6,8 +6,6 @@
 
 <!-- DEPLOYMENT PAUSED: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4ver" alt="n4ver" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/n4verz" target="blank"><img src="https://img.shields.io/twitter/follow/n4verz?logo=twitter&style=for-the-badge" alt="n4verz" /></a> </p>
-
 - 💬 23 Years Old, currently pursuing a BEng in **Information Engineering & Media** @ NTU.
 - 🎓 **Cybersecurity & Digital Forensics** Graduate from Ngee Ann Polytechnic
 - 🧮 Casual maths enthusiast & CTF tryhard
