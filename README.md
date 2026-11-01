@@ -11,7 +11,7 @@
 - 💬 23 Years Old, currently pursuing a BEng in **Information Engineering & Media** @ NTU.
 - 🎓 **Cybersecurity & Digital Forensics** Graduate from Ngee Ann Polytechnic
 - 🧮 Casual maths enthusiast & CTF tryhard
-- 🔭 I'm currently working on **my Idle Game!**
+- 🔭 I'm currently on exchange at TUM! 
 
 - 👨‍💻 All of my projects are available **[here](http://www.n4ver.xyz/)**!
 
